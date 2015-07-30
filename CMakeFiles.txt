@@ -1,1 +1,2 @@
 add_executable(test test.cpp)
+project(some_project)
